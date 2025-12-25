@@ -14,11 +14,12 @@ With a strong foundation in **C, C++, Java, Python, and SQL**, I love working on
 
 ##  Tech Stack  
 - **Languages:** C, C++, Java, Python, SQL  
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, ReactJS, Node.js, Express.js  
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap, ReactJS, Node.js, Express.js
+- **Tools:** Burp Suite, Postman ,Git 
 - **Databases:** MySQL, NoSQL (MongoDB)  
-- **Cloud & DevOps:** AWS Certified  
+- **Cloud & DevOps:** AWS Certified, GCP | Hands on Experience in Big Query 
 - **Data Science:** Pandas, NumPy, Data Visualization  
-
+  
 ## Certifications  
 -  **AWS Academy Cloud Foundations**  
 -  **CCNA: Introduction to Networks**  
