@@ -19,12 +19,12 @@ With a strong foundation in **C, C++, Java, Python, and SQL**, I love working on
 - **Cloud & DevOps:** AWS Certified  
 - **Data Science:** Pandas, NumPy, Data Visualization  
 
-## 📚 Certifications  
-- 🏅 **AWS Academy Cloud Foundations**  
-- 🏅 **CCNA: Introduction to Networks**  
-- 🏅 **PCAP: Python Essentials**  
-- 🏅 **Alteryx Designer Core**  
+## Certifications  
+-  **AWS Academy Cloud Foundations**  
+-  **CCNA: Introduction to Networks**  
+-  **PCAP: Python Essentials**  
+-  **Alteryx Designer Core**  
 
-## 📬 Let's Connect!  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/vishwanth-uppula/)  
-📩 **vishwanthuppula1003@gmail.com**  
+##  Let's Connect!  
+[**LinkedIn**](https://www.linkedin.com/in/vishwanth-uppula/)  
+ **vishwanthuppula1003@gmail.com**  
